@@ -1,7 +1,7 @@
 public class ShaneHolder {
 
     //I added this in GitHUb to be pulled
-    //I Fixed a spelling mistake of added, it was addede om github
+    //I Fixed a spelling mistake of added, it was addede on GitHub
 
     private String[] bucket;
     private int size;
