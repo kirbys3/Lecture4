@@ -11,7 +11,7 @@ public class ShaneHolder {
         size = 0;
     }
 
-    public void addToBucket(String addedString){
+    public void addToBucketKirby(String addedString){
         if(size < bucket.length){
             bucket[size] = addedString;
             size++;
